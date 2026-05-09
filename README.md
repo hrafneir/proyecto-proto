@@ -1,2 +1,2 @@
 # proyecto-proto
-psss cosas del proyecto
+cosas del proyecto prototipico del equipo 4
